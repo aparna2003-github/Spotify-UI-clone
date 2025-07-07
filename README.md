@@ -16,3 +16,7 @@ A simple clone of the Spotify homepage built with HTML and CSS — created for l
 - CSS3
 
 ## 📂 Project Structure
+/spotify-homepage-clone/
+├── index.html
+├── style.css
+├── images/
